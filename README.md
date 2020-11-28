@@ -1,2 +1,5 @@
 # Hans-JS
-Hans-JS Mixed Reality Platform / Boilerplate
+A Mixed Reality, Distributed UX for AI
+
+## Overview
+## Installing
